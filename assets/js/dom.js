@@ -26,7 +26,7 @@ let listaProdutos = [
   {
     nome: "Argola P Prata e Argola P Dourada",
     preço: "7",
-    imagem: "assets/img/Argola P e M.svg",
+    imagem: "../img/argola-p-e-m.svg",
   },
 
   {
